@@ -1,0 +1,1 @@
+Developed a Streamlit app using Gemini 2.5 Flash to extract and interpret data from multi language invoice images. Applied prompt engineering, image preprocessing, and secure API handling with python dotenv. Built an end-to-end ML tool combining image processing, LLM integration, and interactive UI.
